@@ -3,3 +3,16 @@ h1 { font-size: 22px;}
 h2 { font-size: 18px;}
 .bold-text {font-weight: bold;}
 .blue-text {color: blue;}
+#linear-gradient {
+    width: 500px;
+    height: 150px;
+    background-color: black;
+    background-image: radial-gradient(ellipse, red, orange, yellow, green, blue, indigo, violet);
+ }
+
+ #linear-gradient p {
+    text-align: center;
+    vertical-align: middle;
+    line-height: 150px;
+    color: white;
+ }

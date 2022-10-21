@@ -43,6 +43,10 @@
 	  <p>For more information, please see the <a href=" https://en.wikipedia.org/wiki/Carter_Dome">Wikipedia article on Carter Dome</a>
 
 	</div>
+	<div id="linear-gradient">
+		<p>liner-gradient</p>
+	</div>
+
 
   </body>
 </html>
